@@ -1,0 +1,32 @@
+{
+  "name": "logic-solver",
+  "version": "1.0.0",
+  "description": "Solves grid logic puzzles",
+  "main": "main.js",
+  "dependencies": {
+    "chai": "^4.1.1"
+  },
+  "devDependencies": {
+    "mocha": "^3.5.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/crainone/logic-solver.git"
+  },
+  "keywords": [
+    "puzzlebaron",
+    "grid",
+    "logic",
+    "puzzle",
+    "solver"
+  ],
+  "author": "Caitlin Rainone",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/crainone/logic-solver/issues"
+  },
+  "homepage": "https://github.com/crainone/logic-solver#readme"
+}
