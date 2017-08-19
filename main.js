@@ -1,3 +1,5 @@
+'use strict'
+
 /**
  * logic-solver
  * @author Caitlin Rainone
